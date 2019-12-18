@@ -1,0 +1,313 @@
+body{
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat";
+  line-height: 1.5;
+}
+
+
+/* class */
+
+/* banner and navigation and footer and footer icon */
+
+.navs {
+  padding: 1% 15%;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+.nav-link {
+  font-size: 0.8rem;
+}
+
+.intro {
+  text-align: center;
+  color: white;
+  padding: 15% 0;
+}
+.intro-heading {
+  font-weight: bold;
+}
+
+.intro-body {
+    margin-bottom: 2%;
+}
+
+.navbar-toggler{
+  border: none;
+ }
+
+@media screen and (max-width: 578px) {
+  .intro {
+    padding: 50% 0;
+  }
+
+  .intro-heading {
+    font-size: 1.5rem;
+    padding: 0 2%;
+  }
+
+  .intro-body {
+      margin-bottom:10%;
+  }
+}
+
+/* footer */
+.footer {
+  padding: 5% 15% ;
+  background-color: #22262E;
+}
+
+.footer-text {
+  color: #8f8f8f;
+}
+
+.footer-icon {
+  color: #ffffff;
+}
+
+.footer-heading {
+  color: white;
+}
+
+
+
+@media screen and (max-width: 578px) {
+
+  .footer {
+    padding: 20% 15%;
+    background-color:#22262E;
+  }
+
+}
+
+.banner {
+  text-align: center;
+  color: white;
+  padding: 7% 0;
+}
+.banner-heading {
+  font-weight: bold;
+}
+
+.banner-body {
+    margin-bottom: 2%;
+}
+
+@media screen and (max-width: 578px) {
+  .banner {
+    padding: 30% 0;
+  }
+
+  .banner-heading {
+    font-size: 1.5rem;
+    padding: 0 2%;
+  }
+
+  .banner-body {
+      padding: 3% 5%;
+  }
+
+}
+
+/* end of banner navigation and footer */
+
+
+/* about section*/
+
+/* mission */
+
+.mission {
+  padding: 10% 15%;
+}
+
+.mission-heading {
+  font-weight: bolder;
+}
+
+.mission-body {
+  color: #8f8f8f;
+}
+
+.mission i, span {
+  color:  #3BAA97;
+  margin-bottom: 5%;
+}
+
+
+@media screen and (max-width: 578px) {
+
+  .mission {
+    padding: 16% 15%;
+  }
+
+  .mission-box {
+    margin-bottom: 15%;
+  }
+
+}
+
+
+/* mid section */
+
+.quote {
+   padding-bottom: 10%;
+}
+
+.quote-body {
+  text-align: center;
+  color: white;
+  padding: 12% 0;
+}
+
+.quote-heading {
+  font-size: 1.5rem;
+}
+
+.quote-text {
+  color: #FDBD00;
+  font-size: 1.2rem;
+}
+
+@media screen and (max-width: 578px) {
+
+  .quote-body {
+    padding: 45% 5%;
+  }
+
+  .quote-heading {
+    font-size: 1rem;
+  }
+}
+
+/* meesage section*/
+
+.message {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 7%;
+}
+
+.message-heading {
+  font-weight: bolder;
+}
+
+.message-text {
+  color: #8f8f8f;
+}
+
+
+/*****************************************************************
+
+service page
+
+/***************************************************************/
+.service {
+  padding: 7% 15%;
+}
+
+.service-heading {
+  font-weight: bolder;
+}
+
+.service i {
+  color:  #3BAA97;
+  margin-bottom: 5%;
+}
+
+.service-body {
+    color: #8f8f8f;
+}
+
+.service-box {
+  margin-bottom: 5%;
+}
+
+@media screen and (max-width: 578px) {
+
+  .service {
+    padding: 16% 15%;
+  }
+
+}
+
+.call-section{
+  padding: 5% 15%;
+}
+
+
+/******************************************************************************
+contact us page css
+*******************************************************************************/
+
+
+.contact-section {
+  padding: 10% 15%;
+}
+
+.contact-i {
+  color:  #3BAA97;
+}
+
+.contact-heading {
+    font-weight: bolder;
+}
+
+.contact-body {
+  color: #8f8f8f;
+}
+
+
+/**************************************************************
+contact form css
+
+***************************************************************/
+
+.form-contact {
+  background-color: #f7f8fc;
+}
+
+.form-body {
+  padding: 7% 15%;
+}
+
+.form-heading {
+  font-weight: bolder;
+}
+
+@media screen and (max-width: 578px) {
+
+  .form-heading {
+    font-size: 1rem;
+  }
+
+}
+
+
+
+/*****************************************************
+other css
+******************************************************/
+
+.fa-instagram {
+font-size: 20px;
+background: #24343A;
+padding: 15px;
+border-radius: 50px;
+}
+
+.fa-twitter-square {
+font-size: 20px;
+background: #24343A;
+padding: 15px;
+border-radius: 50px;
+}
+
+.fa-facebook-square {
+font-size: 20px;
+background: #24343A;
+padding: 15px;
+border-radius: 50px;
+}
