@@ -17,19 +17,19 @@
 <div class="contact-section">
   <div class="row">
     <div class="col-md-4 text-center mb-4">
-      <i class="fa fa-phone fa-2x contact-i"></i>
+      <i class="icon-chat mb-4 start-icon"></i>
       <h6 class="contact-heading">Call us Today</h6>
-      <p class="contact-body">024 255 1752 | 026 283 6173 </p>
+      <p class="contact-body">024 255 1752 | 026 976 8163 </p>
     </div>
 
     <div class="col-md-4 text-center mb-4">
-      <i class="fa fa-location-arrow fa-2x contact-i"></i>
+      <i class="icon-map mb-4 start-icon"></i>
       <h6 class="contact-heading">Location</h6>
       <p class="contact-body">Madina - Accra, Ghana</p>
     </div>
 
     <div class="col-md-4 text-center mb-4">
-      <i class="fa fa-envelope fa-2x contact-i"></i>
+        <i class="icon-envelope mb-4 start-icon"></i>
       <h6 class="contact-heading">Email us Today</h6>
       <p class="contact-body">informcrc20@gmail.com</p>
     </div>
@@ -79,7 +79,8 @@
               <textarea name="yourMessage" rows="8" cols="80" class="form-control"></textarea>
             </div>
 
-            <input type="submit" value="Send your Message" style="border: 1.5px solid #3BAA97;  border-radius: 50px; background-color:#3BAA97; color:white;" class="pt-2 pb-2 pr-3 pl-3">
+            <input type="submit" class="pt-2 pb-2 pr-3 pl-3" style="border: 1px solid #3BAA97; border-radius: 50px; color: #3BAA97;" value="Send your Message" >
+
         </form>
 
     </div>

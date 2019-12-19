@@ -16,4 +16,23 @@ Route::get('/about', 'PagesController@about');
 Route::get('/service', 'PagesController@service');
 Route::get('/contact', 'PagesController@contact');
 
+Route::get('/projects', 'PagesController@projects');
+Route::get('/resources', 'PagesController@resourcess');
 Route::get('/blog', 'PagesController@blog');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Route::fallback(function() {
+    return view('error');
+});

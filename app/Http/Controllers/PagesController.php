@@ -24,6 +24,14 @@ class PagesController extends Controller
       return view('pages.contact');
     }
 
+    public function projects() {
+      return view('pages.projects');
+    }
+
+    public function resourcess() {
+      return view('pages.resources');
+    }
+
 
     public function blog() {
       return view('pages.blog');

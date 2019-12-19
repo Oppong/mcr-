@@ -23,7 +23,7 @@
         <p class="mission-body">We are a consultancy and research firm that provides advice for various organisation </p>
       </div>
       <div class="col-md-4 text-justify mission-box">
-        <i class="fa fa-microchip fa-2x"></i>
+        <i class="icon-layers mb-4 start-icon"></i>
         <h6 class="mission-heading">Why We Exist</h6>
         <p class="mission-body">We exist to provide Consultancy Services in Management Control Systems for organisations
           (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
@@ -32,7 +32,7 @@
             (of all types and sizes) in the pursuit of their corporate goals and objectives. International Journal Publication Facility</p>
       </div>
       <div class="col-md-4 text-justify mission-box">
-        <i class="fa fa-telegram fa-2x"></i>
+        <i class="icon-pencil mb-4 start-icon"></i>
         <h6 class="mission-heading">What We Offer</h6>
         <p class="mission-body">We offer consultancy services in Management Control Systems, research for Academic, Industrial,
           and Socio-Politico-economic  organizations and International Journal Publication Facility</p>

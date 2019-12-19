@@ -23,9 +23,11 @@
         <ul class="navbar-nav ml-auto">
           <li class="nav-item"><a href="/" class="nav-link text-muted mr-3 ">Home</a></li>
           <li class="nav-item"><a href="about" class="nav-link text-muted mr-3">About</a></li>
-          <li class="nav-item"><a href="contact" class="nav-link text-muted mr-3">Contact</a></li>
-          <li class="nav-item"><a href="blog" class="nav-link text-muted mr-3">Blog</a></li>
-          <li class="nav-item"><a href="service" class="nav-link text-muted mr-3">Services</a></li>
+          <li class="nav-item"><a href="/contact" class="nav-link text-muted mr-3">Contact</a></li>
+          <li class="nav-item"><a href="/service" class="nav-link text-muted mr-3">Services</a></li>
+          <li class="nav-item"><a href="/resources" class="nav-link text-muted mr-3">Resources</a></li>
+          <li class="nav-item"><a href="/projects" class="nav-link text-muted mr-3">Projects</a></li>
+          <li class="nav-item"><a href="/blog" class="nav-link text-muted mr-3">Blog</a></li>
         </ul>
       </div>
     </nav>
@@ -55,6 +57,8 @@
       <p class="footer-text"> <small> <a href="blog" style="color: #8f8f8f;"> <span style="color: #ffffff;"> &raquo;</span>  Blog </a> </small> </p>
     </div>
 
+
+
     <div class="col-md-3 mb-4">
       <h6 class="footer-heading">Latest News</h6>
       <p class="footer-text mb-2 ">A Consultancy firm that provides advice and research for various organisation</p>
@@ -82,7 +86,8 @@
 
   </div>
 </div>
-
+<script src="//code.tidio.co/qlsxzcyasovlpmelgvhgmeqoq15jekum.js" async>
+</script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>

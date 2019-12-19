@@ -114,6 +114,61 @@ h1, h2, h3, h4, h5, h6 {
 
 /* end of banner navigation and footer */
 
+/*************************************************************
+Welcome page css
+**************************************************************/
+
+
+.first-section {
+  padding: 7% 15%;
+}
+
+.first-section-heading {
+    font-weight: bolder;
+}
+
+.first-section-body {
+  color: #8f8f8f;
+}
+
+.start-icon {
+  color: #3BAA97;
+  font-size: 2rem;
+}
+
+@media screen and (max-width: 578px) {
+
+  .first-section {
+    padding: 16% 10%;
+  }
+}
+
+
+.second-section {
+  background-color: #f7f8fc;
+}
+
+.sec-section {
+padding: 7% 15%;
+
+}
+
+.sec-section-heading {
+  font-weight: bolder;
+}
+
+.sec-section-body {
+  color: #8f8f8f;
+}
+
+
+@media screen and (max-width: 578px) {
+
+  .sec-section {
+  padding: 10% 10%;
+
+  }
+}
 
 /* about section*/
 
@@ -140,7 +195,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 578px) {
 
   .mission {
-    padding: 16% 15%;
+    padding: 16% 10%;
   }
 
   .mission-box {
@@ -291,7 +346,24 @@ contact form css
 other css
 ******************************************************/
 
-.fa-instagram {
+.construction {
+  padding: 7% 15%;
+}
+
+.construction-heading {
+    font-weight: bolder;
+}
+
+@media screen and (max-width: 578px) {
+
+  .construction-heading {
+      font-weight: bolder;
+    font-size: 2rem;
+  }
+
+}
+
+/* .fa-instagram {
 font-size: 20px;
 background: #24343A;
 padding: 15px;
@@ -310,4 +382,4 @@ font-size: 20px;
 background: #24343A;
 padding: 15px;
 border-radius: 50px;
-}
+} */
