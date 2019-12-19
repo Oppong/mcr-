@@ -17,42 +17,42 @@
   <div class="row">
 
     <div class="col-md-4 text-center service-box">
-      <i class="fa fa-microchip fa-2x"></i>
+      <i class="icon-genius mb-4 start-icon"></i>
       <h6 class="service-heading">Why We Exist</h6>
       <p class="service-body">We exist to provide Consultancy Services in Management Control Systems for organisations
         (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
     </div>
 
     <div class="col-md-4 text-center service-box">
-      <i class="fa fa-twitter-square fa-2x"></i>
+      <i class="icon-globe mb-4 start-icon"></i>
       <h6 class="service-heading">Why We Exist</h6>
       <p class="service-body">We exist to provide Consultancy Services in Management Control Systems for organisations
         (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
     </div>
 
     <div class="col-md-4 text-center service-box">
-      <i class="fa fa-instagram fa-2x"></i>
+      <i class="icon-anchor mb-4 start-icon"></i>
       <h6 class="service-heading">Why We Exist</h6>
       <p class="service-body">We exist to provide Consultancy Services in Management Control Systems for organisations
         (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
     </div>
 
     <div class="col-md-4 text-center service-box">
-      <i class="fa fa-telegram fa-2x"></i>
+      <i class="icon-telescope mb-4 start-icon"></i>
       <h6 class="service-heading">Why We Exist</h6>
       <p class="service-body">We exist to provide Consultancy Services in Management Control Systems for organisations
         (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
     </div>
 
     <div class="col-md-4 text-center service-box">
-      <i class="fa fa-facebook-square fa-2x"></i>
+      <i class="icon-streetsign mb-4 start-icon"></i>
       <h6 class="service-heading">Why We Exist</h6>
       <p class="service-body">We exist to provide Consultancy Services in Management Control Systems for organisations
         (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
     </div>
 
     <div class="col-md-4 text-center service-box">
-      <i class="fa fa-linkedin fa-2x"></i>
+        <i class="icon-hourglass mb-4 start-icon"></i>
       <h6 class="service-heading">Why We Exist</h6>
       <p class="service-body">We exist to provide Consultancy Services in Management Control Systems for organisations
         (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
