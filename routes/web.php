@@ -15,10 +15,12 @@ Route::get('/', 'PagesController@index');
 Route::get('/about', 'PagesController@about');
 Route::get('/service', 'PagesController@service');
 Route::get('/contact', 'PagesController@contact');
+Route::resource('/sends', 'SendContactEmailController');
 
 Route::get('/projects', 'PagesController@projects');
 Route::get('/resources', 'PagesController@resourcess');
 Route::get('/blog', 'PagesController@blog');
+
 
 
 

@@ -4,6 +4,8 @@
 
 @section('content')
 
+@include('flash::message')
+
 <div style="background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.8)), url('images/consult_image.jpg'); height: 350px; background-size: cover; " >
   <div style="background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.8)), url('images/lagoon.jpg'); height: 350px; background-size: cover; opacity:0.95;">
     <div class="banner">
@@ -49,7 +51,7 @@
           </div>
 
 
-        <form class="" action="index.html" method="post">
+        <form class="" action="/sends" method="post">
           @csrf
           <div class="row mb-4">
               <div class="col-md-6">
@@ -65,28 +67,43 @@
 
             <div class="form-group mb-4">
                 <label for="select">Subject</label>
-                <select class="form-control" name="">
+                <select class="form-control" name="subject" id="select">
                     <option value="">Choose Subject</option>
-                    <option value="">Academic Research</option>
-                    <option value="">Environmental Research</option>
-                    <option value="">Consultancy</option>
-                    <option value="">General Business Consult</option>
+                    <option >Academic Research</option>
+                    <option >Environmental Research</option>
+                    <option >Consultancy</option>
+                    <option >General Business Consult</option>
+                    <option >Other</option>
                 </select>
             </div>
 
             <div class="form-group">
               <label for="message">Your Message</label>
-              <textarea name="yourMessage" rows="8" cols="80" class="form-control"></textarea>
+              <textarea name="body" rows="8" cols="80" class="form-control" id="message"></textarea>
             </div>
 
-            <input type="submit" class="pt-2 pb-2 pr-3 pl-3" style="border: 1px solid #3BAA97; border-radius: 50px; color: #3BAA97;" value="Send your Message" >
+            <input type="submit" class="pt-2 pb-2 pr-3 pl-3" style="border: 1px solid #3BAA97; border-radius: 50px; color: #3BAA97; background-color: white;" value="Send your Message" >
 
         </form>
+
+        <br>
+
+        @if($errors->any())
+
+            <div class="alert alert-danger">
+
+                <ul>
+                  @foreach($errors->all() as $error)
+                  <li> {{$error}}</li>
+                  @endforeach
+                </ul>
+
+            </div>
+
+        @endif
 
     </div>
 
 </div><!-- form contact -->
-
-
 
 @endsection
