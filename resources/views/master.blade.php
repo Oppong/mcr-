@@ -43,7 +43,8 @@
 
     <div class="col-md-3 mb-4">
       <h6 class="footer-heading">Who we Are</h6>
-      <p class="footer-text">A Consultancy firm that provides advice and research for various organisation and always try to achieve client trust and excellence</p>
+      <p class="footer-text">We are highly-respected and result-oriented consulting firm offering management
+        control and research services to satisfy business and societal needs.</p>
       <a href="#"> <i class="fa fa-instagram text-white"></i></a>
       <a href="#"> <i class="fa fa-twitter-square text-white ml-2 mr-2"></i></a>
       <a href="#"> <i class="fa fa-facebook-square text-white"></i></a>

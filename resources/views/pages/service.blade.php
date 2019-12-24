@@ -18,42 +18,38 @@
 
     <div class="col-md-4 text-center service-box">
       <i class="icon-genius mb-4 start-icon"></i>
-      <h6 class="service-heading">Why We Exist</h6>
-      <p class="service-body">We exist to provide Consultancy Services in Management Control Systems for organisations
-        (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
+      <h6 class="service-heading">Research</h6>
+      <p class="service-body">Conducting of all kinds of Research for both Public and Private Organisations and Organising Seminars on how to conduct Research and develop Research Instruments</p>
     </div>
 
     <div class="col-md-4 text-center service-box">
       <i class="icon-globe mb-4 start-icon"></i>
-      <h6 class="service-heading">Why We Exist</h6>
-      <p class="service-body">We exist to provide Consultancy Services in Management Control Systems for organisations
-        (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
+      <h6 class="service-heading">Training</h6>
+      <p class="service-body">Providing Training on Statistical Packages for both Public and Private Organisations and Providing Training for people in Action Research to solve problems</p>
     </div>
 
     <div class="col-md-4 text-center service-box">
       <i class="icon-anchor mb-4 start-icon"></i>
-      <h6 class="service-heading">Why We Exist</h6>
-      <p class="service-body">We exist to provide Consultancy Services in Management Control Systems for organisations
-        (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
+      <h6 class="service-heading">Management Control System</h6>
+      <p class="service-body">We offer business registrations, business proposals, business plan, performance management,
+        project management, business policies preparation and implementation etc.</p>
     </div>
 
     <div class="col-md-4 text-center service-box">
       <i class="icon-telescope mb-4 start-icon"></i>
-      <h6 class="service-heading">Why We Exist</h6>
-      <p class="service-body">We exist to provide Consultancy Services in Management Control Systems for organisations
-        (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
+      <h6 class="service-heading">Seminars</h6>
+      <p class="service-body">Organizing Seminars on how to conduct Research and develop Research Instruments and Seminars for Business Organisations (including SMEs)</p>
     </div>
 
     <div class="col-md-4 text-center service-box">
       <i class="icon-streetsign mb-4 start-icon"></i>
-      <h6 class="service-heading">Why We Exist</h6>
-      <p class="service-body">We exist to provide Consultancy Services in Management Control Systems for organisations
-        (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
+      <h6 class="service-heading">Guidance</h6>
+      <p class="service-body">We Guidance on Planning and Budget Preparation, Guidance on Revenue Mobilisation, Guidance on Human and Financial Resource Management and Management Training Programmes (Leadership)</p>
     </div>
 
     <div class="col-md-4 text-center service-box">
         <i class="icon-hourglass mb-4 start-icon"></i>
-      <h6 class="service-heading">Why We Exist</h6>
+      <h6 class="service-heading">Consulting</h6>
       <p class="service-body">We exist to provide Consultancy Services in Management Control Systems for organisations
         (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
     </div>

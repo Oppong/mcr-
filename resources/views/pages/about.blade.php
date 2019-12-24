@@ -24,12 +24,15 @@
       </div>
       <div class="col-md-4 text-justify mission-box">
         <i class="icon-layers mb-4 start-icon"></i>
-        <h6 class="mission-heading">Why We Exist</h6>
-        <p class="mission-body">We exist to provide Consultancy Services in Management Control Systems for organisations
-          (of all types and sizes) in the pursuit of their corporate goals and objectives</p>
+        <h6 class="mission-heading">Who We Are</h6>
+        <p class="mission-body">We are highly-respected and result-oriented consulting firm
+          offering management control and research services to satisfy business and societal needs.  </p>
 
-        <p class="mission-body">We exist to provide Consultancy Services in Management Control Systems for organisations
-            (of all types and sizes) in the pursuit of their corporate goals and objectives. International Journal Publication Facility</p>
+        <p class="mission-body">The firm has well-equipped and highly qualified management to handle all kinds of management control and research issues on time.
+           All questions and collaborations can be done through the contacts on our contact page.
+       </p>
+
+
       </div>
       <div class="col-md-4 text-justify mission-box">
         <i class="icon-pencil mb-4 start-icon"></i>
@@ -37,8 +40,8 @@
         <p class="mission-body">We offer consultancy services in Management Control Systems, research for Academic, Industrial,
           and Socio-Politico-economic  organizations and International Journal Publication Facility</p>
 
-        <p class="mission-body">We offer consultancy services in Management Control Systems, research for Academic, Industrial,
-            and Socio-Politico-economic  organizations and International Journal Publication Facility</p>
+        <p class="mission-body">We also offer business registrations, business proposals, business plan, performance management,
+          project management, business policies preparation and implementation and management training programmes etc.</p>
       </div>
     </div>
   </div>
@@ -56,10 +59,11 @@
     <div class="row">
       <div class="col-md-12">
         <h6 class="message-heading text-center">Message From the CEO</h6>
-        <p class="message-text text-center">Lorem ipsum dolore magna aliqua. velit esse cillum dolore eu fugiat nulla pariatur.
-          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          Lorem ipsum dolore magna aliqua. velit esse cillum dolore eu fugiat nulla pariatur.
-          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        <p class="message-text text-center">Management Control and Research Consult is a result-oriented consulting firm
+          having the goal of providing effective and efficient external and internal management control systems for
+          organisations and providing cutting-edge and state of the art research and advice to organisations in order
+           to solve business and societal problems. The firm aims to be one of the best Management Control and Research Firms
+           in Ghana and the World with the best products and services to satisfy both business and societal needs.
         </p>
       </div>
     </div>

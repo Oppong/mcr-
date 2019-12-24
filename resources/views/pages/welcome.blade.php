@@ -57,37 +57,37 @@
     <div class="col-md-4 mb-4">
       <i class="icon-strategy mb-4 start-icon"></i>
       <h6>Strategy</h6>
-      <p class="first-section-body">Lorem ipsum dolor sit amet, consectetur adipisicinsunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p class="first-section-body">We solicit ideas from each team member to provide our clients with the best service</p>
     </div>
 
     <div class="col-md-4 mb-4">
       <i class="icon-shield mb-4 start-icon"></i>
-      <h6>Marketing</h6>
-      <p class="first-section-body">Lorem ipsum dolor sit amet, consectetur adipisicinsunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <h6>Training</h6>
+      <p class="first-section-body">Providing Training on Statistical Packages for both Public and Private Organisations</p>
     </div>
 
     <div class="col-md-4 mb-4 ">
       <i class="icon-linegraph mb-4 start-icon"></i>
       <h6>Consulting</h6>
-      <p class="first-section-body">Lorem ipsum dolor sit amet, consectetur adipisicinsunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p class="first-section-body">We provide General Business Advice for both Public and Private organisations.</p>
     </div>
 
     <div class="col-md-4">
       <i class="icon-circle-compass mb-4 start-icon"></i>
       <h6>Business Proposals</h6>
-      <p class="first-section-body">Lorem ipsum dolor sit amet, consectetur adipisicinsunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p class="first-section-body">Preparation of business proposals and business plans for organisations and individuals</p>
     </div>
 
     <div class="col-md-4">
       <i class="icon-lightbulb mb-4 start-icon"></i>
       <h6>Research</h6>
-      <p class="first-section-body">Lorem ipsum dolor sit amet, consectetur adipisicinsunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p class="first-section-body">Conducting of all kinds of Research for both Public and Private Organisations</p>
     </div>
 
     <div class="col-md-4">
       <i class="icon-profile-male mb-4 start-icon"></i>
       <h6>Seminars</h6>
-      <p class="first-section-body">Lorem ipsum dolor sit amet, consectetur adipisicinsunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p class="first-section-body">Organizing Seminars on how to conduct Research and develop Research Instruments</p>
     </div>
   </div>
 </div>
