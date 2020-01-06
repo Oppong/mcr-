@@ -72,6 +72,8 @@
   <div class="col-md-12">
     <p class="text-center mb-4">Dr Amponsah-Kwatiah has been presenting talks to students, congregations and groups of
       people over the years on personal life development on varying subjects including ‘entrepreneurship’.</p>
+
+      <p>Contributor: Kofi Amponsah-Kwatiah, PhD, kofiamponsahkwatiah@gmail.com</p>
   </div>
 </div>
 
