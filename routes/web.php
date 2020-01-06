@@ -21,6 +21,9 @@ Route::get('/projects', 'PagesController@projects');
 Route::get('/resources', 'PagesController@resourcess');
 Route::get('/blog', 'PagesController@blog');
 
+// separated routes for blog
+Route::get('/intro', 'PagesController@intro');
+
 
 
 

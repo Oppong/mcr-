@@ -37,6 +37,10 @@ class PagesController extends Controller
       return view('pages.blog');
     }
 
+    public function intro() {
+      return view('pages.intro');
+    }
+
 
 
 }
