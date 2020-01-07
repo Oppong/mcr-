@@ -23,6 +23,8 @@ Route::get('/blog', 'PagesController@blog');
 
 // separated routes for blog
 Route::get('/intro', 'PagesController@intro');
+Route::get('/cansave', 'PagesController@cansave');
+Route::get('/stepone', 'PagesController@stepone');
 
 
 

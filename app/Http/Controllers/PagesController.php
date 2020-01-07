@@ -41,6 +41,13 @@ class PagesController extends Controller
       return view('pages.intro');
     }
 
+    public function cansave() {
+      return view('pages.cansave');
+    }
+
+    public function stepone() {
+      return view('pages.stepone');
+    }
 
 
 }
