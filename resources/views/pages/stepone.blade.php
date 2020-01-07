@@ -271,6 +271,7 @@
   You may now expect to read Step 2 on ‘Create Enabling Business Mindset’
 </p>
 
+  <a href="files/Financial Inventory Sheet-Appendix A.docx " class="text-muted" download>(Appendix ‘A’ refers a sample of financial inventory worksheet) Download File </a>
               <br>
               <br>
 

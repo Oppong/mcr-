@@ -52,11 +52,14 @@
 
             <p>Remember: <em> <strong> “Prospective entrepreneurs do not just wish to become, they act to become”.</strong> </em> </p>
 
-            <p> You may now expect to read Step1 on ‘Acquire Basic Financial Knowledge’.</p>
+            <p> You may now expect to read <a href="/stepone">Step 1 on ‘Acquire Basic Financial Knowledge’.</a> </p>
 
             <h6 class="font-weight-bold mt-4 text-center">Reference</h6>
             <p>Norman M. Scarborough, N.M (2013).Essentials of Entrepreneurship and Small Business Management, 6th Edition. Pearson Education.</p>
 
+
+              <br>
+              <br>
             <p class="text-center mt-4"> <em> <strong> “If life is war indeed, then the battlefield is the mind and choice declares the winner” <br> (Amponsah-Kwatiah)
 </strong></em> </p>
 <p class="text-center">Quoted from his Book: ‘Why They Achieve Little, Volume 1, Low Self Estimation’ </p>
@@ -73,7 +76,7 @@
     <p class="text-center mb-4">Dr Amponsah-Kwatiah has been presenting talks to students, congregations and groups of
       people over the years on personal life development on varying subjects including ‘entrepreneurship’.</p>
 
-      <p>Contributor: Kofi Amponsah-Kwatiah, PhD, kofiamponsahkwatiah@gmail.com</p>
+      <p class="text-center"> <em> <strong>Contributor: Kofi Amponsah-Kwatiah, PhD, kofiamponsahkwatiah@gmail.com</strong> </em> </p>
   </div>
 </div>
 
